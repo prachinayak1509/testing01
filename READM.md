@@ -1,3 +1,3 @@
 git testing
 
-_hacktoberfest 1.0_
+_hacktoberfest 2.0_
